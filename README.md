@@ -53,6 +53,8 @@ The dashboard provides key HR insights:
 - Leave Intent Score
 - High-Risk Employee Count
 - Average Risk Score
+- ![WhatsApp Image 2026-04-02 at 10 00 18 AM](https://github.com/user-attachments/assets/546a0b28-f89f-4a21-93aa-a0f451b6f588)
+
 
 ### 📈 Visualizations:
 - Risk Level Distribution (Pie Chart)
