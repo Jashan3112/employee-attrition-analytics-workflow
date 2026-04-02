@@ -35,6 +35,8 @@ The automation workflow includes the following steps:
    - Categorizes employees into:
      - Low Risk
      - High Risk
+     - ![WhatsApp Image 2026-04-02 at 10 00 17 AM](https://github.com/user-attachments/assets/23731f06-1fb4-4da7-995d-95ad8e907003)
+
 
 4. **Format Alert Message**
    - Prepares alerts for high-risk employees
